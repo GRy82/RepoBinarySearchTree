@@ -53,6 +53,7 @@ namespace BinarySearchTree
                     currentNode = AssessNodeEdges(data, currentNode);
                 }
             }
+            Console.WriteLine("That data could not be found.");
             return false;
         }
 

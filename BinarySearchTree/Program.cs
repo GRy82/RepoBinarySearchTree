@@ -29,7 +29,7 @@ namespace BinarySearchTree
             binaryTree.Add(node7);
 
             binaryTree.Search();
-
+            Console.ReadLine();
         }
     }
 }
